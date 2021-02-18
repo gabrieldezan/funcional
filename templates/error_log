@@ -1,0 +1,2 @@
+[19-Nov-2018 17:48:19 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/webde132/public_html/sites/funcional_contabilidade/templates/blog.php on line 33
+[19-Nov-2018 17:48:19 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/webde132/public_html/sites/funcional_contabilidade/templates/blog.php on line 33
